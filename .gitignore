@@ -16,3 +16,6 @@ cdk/*.js
 cdk/*.d.ts
 .cdk.staging
 cdk.out
+
+# app
+.appconfig.ts
